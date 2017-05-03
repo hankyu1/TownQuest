@@ -1,0 +1,22 @@
+{
+  "name": "town-quest",
+  "version": "1.0.0",
+  "description": "A twitch powered town building game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hankyu1/TownQuest.git"
+  },
+  "author": "Hank Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hankyu1/TownQuest/issues"
+  },
+  "homepage": "https://github.com/hankyu1/TownQuest#readme",
+  "dependencies": {
+    "excalibur": "^0.10.0"
+  }
+}
